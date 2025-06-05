@@ -1,5 +1,5 @@
-import { Box } from "@mui/material";
+import { Flow } from "./components/flow/Flow";
 
 export const Landing = () => {
-  return <Box>Landing</Box>;
+  return <Flow />;
 };

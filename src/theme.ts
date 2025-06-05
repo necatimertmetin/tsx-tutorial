@@ -47,6 +47,9 @@ const LightTheme = createTheme({
       main: "#f0f8ff",
     },
   },
+  typography: {
+    fontFamily: `"Space Grotesk", "Montserrat", sans-serif`,
+  },
   components: {
     MuiTypography: {
       defaultProps: {
